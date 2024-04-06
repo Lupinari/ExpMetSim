@@ -1,6 +1,4 @@
-ExpMetSim is a very intuitive code to use. It is thoroughly described in “Design, assembly, and test of G-CLEF's 
-exposure meter I: design trade-off and first conclusions” in preparation to be published at SPIE Optical Systems 
-Design 2024 Proceedings.
+ExpMetSim is thoroughly described in “Design, assembly, and test of G-CLEF's exposure meter I: design trade-off and first conclusions” in preparation to be published at SPIE Optical Systems Design 2024 Proceedings.
 
 There is a separate section where you can choose inputs according to your need. The following parameters are 
 customizable: 
