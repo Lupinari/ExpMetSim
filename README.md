@@ -6,11 +6,13 @@ There is a separate section where you can choose inputs according to your need. 
 customizable: 
 
 ##############################################################################
-##############################################################################
 #################                   INPUTS                   #################
 ##############################################################################
+
 FirstTime1=' ' ## 'YES'/'NO' Is this the first time using any of the following parameters?
+
 HIP_ID = ' ' ## Object ID from Hiparcus Catalog; use 'HIP****'
+
 HIP_number =  ## Object ID from Hiparcus Catalog; use only the number
 mag= ## Stellar apparent magnitude
 SpectralType = ' ' ## Stellar spectral type: 'F', 'G', 'K', 'M' 
